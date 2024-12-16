@@ -4,7 +4,7 @@ Welcome to MyBrand! This project is designed to provide solutions that simplify 
 
 ## Preview  
 
-You can view the live demo of the project here: [Live Preview](<your-preview-link-here>)  
+You can view the live demo of the project here: [Live Preview](https://yetti02.github.io/MyBrand/)  
 
 ## Features  
 
